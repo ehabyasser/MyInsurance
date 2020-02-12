@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "My Insurance"; ObjectID = "1ri-aC-yhC"; */
+"1ri-aC-yhC.text" = "تأميناتي";
+
+/* Class = "UIButton"; normalTitle = "Enter as Visitor"; ObjectID = "6Y5-t3-fBs"; */
+"6Y5-t3-fBs.normalTitle" = "الدخول كزائر";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "778-Qz-dvD"; */
+"778-Qz-dvD.text" = "كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Identity Number"; ObjectID = "7CW-Fp-PKb"; */
+"7CW-Fp-PKb.placeholder" = "رقم بطاقة الهوية";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "AIu-71-ozb"; */
+"AIu-71-ozb.normalTitle" = "ارسال";
+
+/* Class = "UIBarButtonItem"; title = "Sign Up"; ObjectID = "OAH-WL-ClL"; */
+"OAH-WL-ClL.title" = "انشاء حساب";
+
+/* Class = "UILabel"; text = "Identity Number"; ObjectID = "OqW-gr-jzg"; */
+"OqW-gr-jzg.text" = "رقم بطاقة الهوية";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "SRs-Ee-cRs"; */
+"SRs-Ee-cRs.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UIBarButtonItem"; title = "Arabic"; ObjectID = "V8T-Nb-ldG"; */
+"V8T-Nb-ldG.title" = "English";
+
+/* Class = "UIViewController"; title = "Check Identity"; ObjectID = "VWP-Jl-GlI"; */
+"VWP-Jl-GlI.title" = "تاكد من الهوية";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "XhE-sV-Iak"; */
+"XhE-sV-Iak.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UINavigationItem"; title = "My Insurance"; ObjectID = "Zit-tn-wkb"; */
+"Zit-tn-wkb.title" = "تأميناتي";
+
+/* Class = "UIButton"; normalTitle = "FORGET PASSWORD?"; ObjectID = "ZxC-RM-AWt"; */
+"ZxC-RM-AWt.normalTitle" = "نسيت كلمة المرور ؟";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "grR-VU-oWx"; */
+"grR-VU-oWx.placeholder" = "تاكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Identity Card"; ObjectID = "gxU-p2-JYY"; */
+"gxU-p2-JYY.placeholder" = "بطاقة الهوية";
+
+/* Class = "UIViewController"; title = "Sign up"; ObjectID = "jnz-rr-hes"; */
+"jnz-rr-hes.title" = "انشاء حساب";
+
+/* Class = "UIViewController"; title = "Forget Password"; ObjectID = "k1c-vk-gn3"; */
+"k1c-vk-gn3.title" = "نسيت كلمة المرور";
+
+/* Class = "UILabel"; text = "Please Enter the below text"; ObjectID = "ll5-JR-miK"; */
+"ll5-JR-miK.text" = "من فضلك ادخل النص الذي بالاسفل";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "mRg-nm-Jpi"; */
+"mRg-nm-Jpi.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "s4m-mC-kGv"; */
+"s4m-mC-kGv.normalTitle" = "تحديث";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "syk-Ng-veN"; */
+"syk-Ng-veN.normalTitle" = "انشاء حساب";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "zgI-3F-0ud"; */
+"zgI-3F-0ud.placeholder" = "الاسم بالكامل";

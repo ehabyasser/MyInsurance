@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MyInsurance
+
+  Created by ehab on 1/27/20.
+  Copyright © 2020 ehab. All rights reserved.
+*/
+allDataRequired = "جميع البيانات مطلوبة";
+loading = "تحميل....";
+wrongIdentity = "رقم الهوية او الباسور خطأ";
+identityExists = "رقم الهوية موجود بالفعل";
+passwordsNotMatch = "كلمات المرور غير متطابقة";
+updatePasswordSuccess = "تم تحديث كلمة المرور بنجاح";
+search = "بحث";
+selectOption = "حدد اختيارا";

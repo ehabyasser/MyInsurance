@@ -1,0 +1,330 @@
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "0xP-Vz-h0e"; */
+"0xP-Vz-h0e.text" = "حدد اختيارا";
+
+/* Class = "UITextField"; placeholder = "Personal Number"; ObjectID = "1qx-2B-hG8"; */
+"1qx-2B-hG8.placeholder" = "رقم الهاتف الشخصي";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "2de-KJ-gD7"; */
+"2de-KJ-gD7.text" = "حدد اختيارا";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "2lU-J3-axg"; */
+"2lU-J3-axg.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Are you going to participate in any sports activity? :"; ObjectID = "2zW-dm-awh"; */
+"2zW-dm-awh.text" = "هل ستشارك في أي نشاط رياضي؟ :";
+
+/* Class = "UILabel"; text = "The Plant"; ObjectID = "3Bh-hy-sX0"; */
+"3Bh-hy-sX0.text" = "الخطة";
+
+/* Class = "UILabel"; text = "Promo code :"; ObjectID = "3jm-5P-dgA"; */
+"3jm-5P-dgA.text" = "رمز ترويجي :";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "3lX-VC-C0d"; */
+"3lX-VC-C0d.normalTitle" = "لا";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3ub-Ah-VyO"; */
+"3ub-Ah-VyO.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Panal Number :"; ObjectID = "4WS-dJ-Tic"; */
+"4WS-dJ-Tic.text" = "رقم اللوحة :";
+
+/* Class = "UILabel"; text = "Home Property details"; ObjectID = "6b4-um-TQD"; */
+"6b4-um-TQD.text" = "تفاصيل العقار";
+
+/* Class = "UILabel"; text = "Insurance"; ObjectID = "6c6-nf-Fha"; */
+"6c6-nf-Fha.text" = "التامين";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "8hD-uu-0tF"; */
+"8hD-uu-0tF.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "Personal Number"; ObjectID = "9QT-Ni-Q6h"; */
+"9QT-Ni-Q6h.placeholder" = "رقم الهاتف الشخصي";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "Ayr-u7-A0D"; */
+"Ayr-u7-A0D.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Cet-lP-xUP"; */
+"Cet-lP-xUP.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Panal Type :"; ObjectID = "Cxx-k8-bZL"; */
+"Cxx-k8-bZL.text" = "نوع اللوحة :";
+
+/* Class = "UILabel"; text = "Insurance"; ObjectID = "DAl-eN-gsn"; */
+"DAl-eN-gsn.text" = "التامين";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "DVA-kX-g2u"; */
+"DVA-kX-g2u.normalTitle" = "لا";
+
+/* Class = "UILabel"; text = "Surplus Calculator"; ObjectID = "EgL-UB-ke3"; */
+"EgL-UB-ke3.text" = "حساب الفائض";
+
+/* Class = "UILabel"; text = "Brand New :"; ObjectID = "GiX-Ab-r0J"; */
+"GiX-Ab-r0J.text" = "علامة تجارية جديدة :";
+
+/* Class = "UILabel"; text = "Please enter the captcha :"; ObjectID = "HNX-PU-szW"; */
+"HNX-PU-szW.text" = "يرجى إدخال كلمة التحقق :";
+
+/* Class = "UILabel"; text = "Personal Number : "; ObjectID = "I3r-be-jqQ"; */
+"I3r-be-jqQ.text" = "رقم الهاتف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "I7D-bv-qEz"; */
+"I7D-bv-qEz.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Travel Plan"; ObjectID = "I7I-gk-inC"; */
+"I7I-gk-inC.text" = "خطة السفر";
+
+/* Class = "UILabel"; text = "Do you want to recieve the insurance policy through:"; ObjectID = "IGm-ip-zLc"; */
+"IGm-ip-zLc.text" = "هل ترغب في الحصول على وثيقة التأمين من خلال:";
+
+/* Class = "UILabel"; text = "The value of the car :"; ObjectID = "IaV-W0-79w"; */
+"IaV-W0-79w.text" = "قيمة السيارة:";
+
+/* Class = "UILabel"; text = "Number of cylinders :"; ObjectID = "IuQ-vj-Ne2"; */
+"IuQ-vj-Ne2.text" = "عدد الاسطوانات :";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "J40-wm-UOQ"; */
+"J40-wm-UOQ.text" = "حدد اختيارا";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "JA1-sz-LWh"; */
+"JA1-sz-LWh.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "JuV-zF-C0u"; */
+"JuV-zF-C0u.text" = "حدد اختيارا";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Ke5-R8-Qra"; */
+"Ke5-R8-Qra.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "ID Card Number"; ObjectID = "LUw-fM-8ha"; */
+"LUw-fM-8ha.placeholder" = "رقم بطاقة الهوية";
+
+/* Class = "UILabel"; text = "Body Type :"; ObjectID = "LZs-cj-4Sy"; */
+"LZs-cj-4Sy.text" = "نوع الجسم :";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "Lff-h3-lyz"; */
+"Lff-h3-lyz.text" = "حدد اختيارا";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "M9v-QW-uu3"; */
+"M9v-QW-uu3.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Destination :"; ObjectID = "MeN-4R-fTB"; */
+"MeN-4R-fTB.text" = "المكان المقصود :";
+
+/* Class = "UILabel"; text = "Additional details"; ObjectID = "N9t-aa-KeA"; */
+"N9t-aa-KeA.text" = "تفاصيل اضافية";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "NIV-uR-Wlx"; */
+"NIV-uR-Wlx.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "أو"; ObjectID = "Obp-Qo-ZQI"; */
+"Obp-Qo-ZQI.text" = "أو";
+
+/* Class = "UILabel"; text = "The Insured value of the ship (in QAR):"; ObjectID = "Ogg-ub-2vf"; */
+"Ogg-ub-2vf.text" = "القيمة المؤمنة للسفينة (بالريال القطري):";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Oh3-Ig-BoO"; */
+"Oh3-Ig-BoO.normalTitle" = "الرجوع";
+
+/* Class = "UITextField"; placeholder = "Enter your promo code"; ObjectID = "P0h-uc-iFX"; */
+"P0h-uc-iFX.placeholder" = "إدخال الرمز الترويجي الخاص بك";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "P9U-x5-Uj1"; */
+"P9U-x5-Uj1.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Vehicle make :"; ObjectID = "PMg-JE-uif"; */
+"PMg-JE-uif.text" = "نوع المركبة :";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Q9U-3z-Y5b"; */
+"Q9U-3z-Y5b.normalTitle" = "الرجوع";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QCg-9D-5Xr"; */
+"QCg-9D-5Xr.normalTitle" = "الرجوع";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "QaN-Cw-9Z5"; */
+"QaN-Cw-9Z5.text" = "1";
+
+/* Class = "UILabel"; text = "Compound use :"; ObjectID = "SMO-nV-Zcx"; */
+"SMO-nV-Zcx.text" = "استخدام المركب:";
+
+/* Class = "UILabel"; text = "value of insured content (in QAR) :"; ObjectID = "UXe-YD-E4l"; */
+"UXe-YD-E4l.text" = "قيمة المحتوى المؤمن (بالريال القطري):";
+
+/* Class = "UITextField"; placeholder = "Panal Number"; ObjectID = "VHf-wI-Foj"; */
+"VHf-wI-Foj.placeholder" = "رقم اللوحة";
+
+/* Class = "UILabel"; text = "Travel area :"; ObjectID = "VJi-Xh-KAG"; */
+"VJi-Xh-KAG.text" = "منطقة السفر:";
+
+/* Class = "UITextField"; placeholder = "Personal Number"; ObjectID = "Vps-Ob-ur9"; */
+"Vps-Ob-ur9.placeholder" = "رقم الهاتف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "XAg-zm-LKg"; */
+"XAg-zm-LKg.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "XKo-H5-a04"; */
+"XKo-H5-a04.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Insured value for jewelry (in QAR) :"; ObjectID = "XXb-1T-K0g"; */
+"XXb-1T-K0g.text" = "القيمة المؤمنة للمجوهرات (بالريال القطري):";
+
+/* Class = "UILabel"; text = "Please enter the captcha :"; ObjectID = "Xhf-in-oug"; */
+"Xhf-in-oug.text" = "يرجى إدخال كلمة التحقق :";
+
+/* Class = "UILabel"; text = "Personal Number : "; ObjectID = "XlI-ae-eC5"; */
+"XlI-ae-eC5.text" = "رقم الهاتف الشخصي";
+
+/* Class = "UILabel"; text = "Tell us about your vehicle"; ObjectID = "YoL-bq-34D"; */
+"YoL-bq-34D.text" = "أخبرنا عن سيارتك";
+
+/* Class = "UILabel"; text = "Number of passengers : "; ObjectID = "ZKh-Oe-LYc"; */
+"ZKh-Oe-LYc.text" = "عدد الركاب: ";
+
+/* Class = "UITextField"; placeholder = "Number of Passengers"; ObjectID = "ZrC-UY-fKL"; */
+"ZrC-UY-fKL.placeholder" = "عدد الركاب";
+
+/* Class = "UILabel"; text = "Please enter the captcha :"; ObjectID = "bkA-rs-0r0"; */
+"bkA-rs-0r0.text" = "يرجى إدخال كلمة التحقق :";
+
+/* Class = "UILabel"; text = "Promo code :"; ObjectID = "c0h-0i-gO5"; */
+"c0h-0i-gO5.text" = "رمز ترويجي :";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "c4D-Le-acr"; */
+"c4D-Le-acr.normalTitle" = "لا";
+
+/* Class = "UILabel"; text = "400 R"; ObjectID = "cOw-qE-qAF"; */
+"cOw-qE-qAF.text" = "400 R";
+
+/* Class = "UILabel"; text = "ID Card Number :"; ObjectID = "cgW-nK-Hwo"; */
+"cgW-nK-Hwo.text" = "رقم بطاقة الهوية:";
+
+/* Class = "UILabel"; text = "Motor Renew"; ObjectID = "d4i-E4-CcS"; */
+"d4i-E4-CcS.text" = "تجديد السيارات";
+
+/* Class = "UIButton"; normalTitle = "Receive it from the insurance company"; ObjectID = "dDM-hm-F0N"; */
+"dDM-hm-F0N.normalTitle" = "الحصول عليها من شركة التأمين";
+
+/* Class = "UITextField"; placeholder = "Enter your promo code"; ObjectID = "dYA-vr-euj"; */
+"dYA-vr-euj.placeholder" = "إدخال الرمز الترويجي الخاص بك";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "dl3-j9-scV"; */
+"dl3-j9-scV.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "year of manufacture:"; ObjectID = "eQ1-BY-sa8"; */
+"eQ1-BY-sa8.text" = "سنة الصنع:";
+
+/* Class = "UITextField"; placeholder = "Enter your promo code"; ObjectID = "fNl-vM-fMs"; */
+"fNl-vM-fMs.placeholder" = "إدخال الرمز الترويجي الخاص بك";
+
+/* Class = "UILabel"; text = "Duration of the insurance policy :"; ObjectID = "fS3-re-arL"; */
+"fS3-re-arL.text" = "مدة وثيقة التأمين:";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "gYb-Mw-5WU"; */
+"gYb-Mw-5WU.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "Ship details"; ObjectID = "ga5-qC-Pnz"; */
+"ga5-qC-Pnz.text" = "تفاصيل السفينة";
+
+/* Class = "UILabel"; text = "Personal Number : "; ObjectID = "gft-q4-CKh"; */
+"gft-q4-CKh.text" = "رقم الهاتف الشخصي :";
+
+/* Class = "UILabel"; text = "Personal Number :"; ObjectID = "ggp-Mo-Vfo"; */
+"ggp-Mo-Vfo.text" = "رقم الهاتف الشخصي:";
+
+/* Class = "UITextField"; placeholder = "Personal Number"; ObjectID = "goG-Mj-0Qn"; */
+"goG-Mj-0Qn.placeholder" = "رقم الهاتف الشخصي";
+
+/* Class = "UITextField"; placeholder = "Personal Number"; ObjectID = "hl7-jC-4N9"; */
+"hl7-jC-4N9.placeholder" = "رقم الهاتف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "iyy-o2-ZJ6"; */
+"iyy-o2-ZJ6.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "j07-Xh-tkk"; */
+"j07-Xh-tkk.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "Insurance"; ObjectID = "jVA-JZ-LV7"; */
+"jVA-JZ-LV7.text" = "التامين";
+
+/* Class = "UIButton"; normalTitle = "Delegate (for an amount)"; ObjectID = "jt2-qf-vvG"; */
+"jt2-qf-vvG.normalTitle" = "مندوب ";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "kFw-Za-C6d"; */
+"kFw-Za-C6d.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "Submit"; ObjectID = "kkj-NA-pcT"; */
+"kkj-NA-pcT.text" = "ارسال";
+
+/* Class = "UILabel"; text = "Insurance policy number :"; ObjectID = "l7M-du-N6q"; */
+"l7M-du-N6q.text" = "رقم وثيقة التأمين :";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "lRK-11-hQN"; */
+"lRK-11-hQN.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Ship Type :"; ObjectID = "lte-5H-29e"; */
+"lte-5H-29e.text" = "نوع السفينة:";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "mEo-4T-2np"; */
+"mEo-4T-2np.text" = "0";
+
+/* Class = "UILabel"; text = "Do you need jewelry cover ?"; ObjectID = "mvX-s6-kyA"; */
+"mvX-s6-kyA.text" = "هل تحتاج إلى غطاء مجوهرات؟";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "nVG-WF-IKg"; */
+"nVG-WF-IKg.text" = "1";
+
+/* Class = "UILabel"; text = "Select the materails and contents of the home :"; ObjectID = "naO-2f-2h4"; */
+"naO-2f-2h4.text" = "اختر مواد ومحتويات المنزل:";
+
+/* Class = "UILabel"; text = "Vehicle model :"; ObjectID = "o01-vr-NJ5"; */
+"o01-vr-NJ5.text" = "طراز السيارة:";
+
+/* Class = "UILabel"; text = "Promo code :"; ObjectID = "o2G-zn-I4j"; */
+"o2G-zn-I4j.text" = "رمز ترويجي :";
+
+/* Class = "UILabel"; text = "Number of passengers (0 to 75 years) :"; ObjectID = "oVz-bx-laG"; */
+"oVz-bx-laG.text" = "عمر الركاب (من 0 إلى 75 سنة):";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "p2n-mz-KrS"; */
+"p2n-mz-KrS.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "r9j-nH-IqL"; */
+"r9j-nH-IqL.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "Vehicle year :"; ObjectID = "s1L-Fz-hzr"; */
+"s1L-Fz-hzr.text" = "سنة السيارة:";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "s27-xF-uTt"; */
+"s27-xF-uTt.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "s6P-LW-SlS"; */
+"s6P-LW-SlS.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sJA-B2-7IM"; */
+"sJA-B2-7IM.normalTitle" = "الرجوع";
+
+/* Class = "UILabel"; text = "Plat Type :"; ObjectID = "sqn-xm-eu4"; */
+"sqn-xm-eu4.text" = "نوع اللوحة";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "unX-cG-lJy"; */
+"unX-cG-lJy.normalTitle" = "نعم";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "v9e-Ej-g7d"; */
+"v9e-Ej-g7d.text" = "حدد اختيارا";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "v9k-K8-o4R"; */
+"v9k-K8-o4R.normalTitle" = "نعم";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "wgk-Ge-jNm"; */
+"wgk-Ge-jNm.normalTitle" = "نعم";
+
+/* Class = "UILabel"; text = "The Insured value for the home :"; ObjectID = "xEC-r5-IQM"; */
+"xEC-r5-IQM.text" = "قيمة المؤمن للمنزل:";
+
+/* Class = "UILabel"; text = "Select an option"; ObjectID = "xqy-ii-tfO"; */
+"xqy-ii-tfO.text" = "حدد اختيارا";
+
+/* Class = "UILabel"; text = "The Insurance Value is :"; ObjectID = "yhf-ym-cZE"; */
+"yhf-ym-cZE.text" = "قيمة التأمين هي:";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "z9i-mk-0pW"; */
+"z9i-mk-0pW.text" = "1";

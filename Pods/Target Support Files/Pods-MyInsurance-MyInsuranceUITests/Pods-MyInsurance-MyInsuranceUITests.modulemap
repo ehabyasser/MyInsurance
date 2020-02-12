@@ -1,0 +1,6 @@
+framework module Pods_MyInsurance_MyInsuranceUITests {
+  umbrella header "Pods-MyInsurance-MyInsuranceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

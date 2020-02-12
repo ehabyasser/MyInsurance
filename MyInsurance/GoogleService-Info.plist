@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>181526671020-in5m0o5jtb56gk0r0k3jjbra5uvvb1ca.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.181526671020-in5m0o5jtb56gk0r0k3jjbra5uvvb1ca</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>181526671020-4cs5rrf9hpj3fionhjenur99ls3254im.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIYC_bPu8F2i-1qj4daKV9QLF6Bs4BUWA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181526671020</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eam.MyInsurance</string>
+	<key>PROJECT_ID</key>
+	<string>myinsurance-a0c07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myinsurance-a0c07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181526671020:ios:cd86e742d5619039e17909</string>
+	<key>DATABASE_URL</key>
+	<string>https://myinsurance-a0c07.firebaseio.com</string>
+</dict>
+</plist>
